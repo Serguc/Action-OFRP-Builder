@@ -46,6 +46,7 @@ on:
         - boot
         - recovery
         - vendorboot
+        - adbd vendorbootimage
 
 jobs:
   build:
