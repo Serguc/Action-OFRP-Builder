@@ -45,8 +45,7 @@ on:
         options:
         - boot
         - recovery
-        - vendorboot
-        - adbd vendorbootimage
+        - vendor_boot.img
 
 jobs:
   build:
